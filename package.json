@@ -1,0 +1,24 @@
+{
+  "name": "parity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wopol/parity.git"
+  },
+  "author": "Wojciech Polus <polusw@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wopol/parity/issues"
+  },
+  "homepage": "https://github.com/wopol/parity#readme"
+}
